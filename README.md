@@ -18,7 +18,7 @@
 
 ## 🌱 Currently Learning  
 - **Data Engineering**  
-- **Big Data Technologies**  
+- **Machine Learning**  
 - **Cloud Computing**
 
 ---
