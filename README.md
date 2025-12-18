@@ -4,7 +4,7 @@
 
 📊 I enjoy working with data to uncover patterns, build solutions, and tell meaningful stories.  
 💪 I believe in continuous learning and strive to deepen my understanding of technology and its impact on the world.  
-🧠 Eager to explore, learn, and gain experience in **Data Engineering** and **Data Analysis.**  
+🧠 Eager to explore, learn, and gain experience in **Machine Learning**, **Data Engineering** and **Data Analysis.**  
 📈 Passionate about growing as a **data professional.**<br>
 🤝 Reach Me<br>
   <a href="http://www.linkedin.com/in/rameshvikaas" target="_blank">
